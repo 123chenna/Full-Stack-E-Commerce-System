@@ -168,8 +168,11 @@ Open `index.html` in browser
  👨‍💻 Author
 
 **Majjari Chenna Keshava**
+
 https://github.com/123chenna
+
 keshavachenna330@gmail.com
+
 8639588635
 
 
