@@ -92,11 +92,22 @@ frontend/
 
 ### 1. Clone the repository
 
-git clone https://github.com/your-username/full-stack-ecommerce-system
+git clone https://github.com/123chenna/Full-Stack-E-Commerce-System
+
+ Frontend: https://github.com/123chenna/Ecommerce_Frontend
+
+ Backend: https://github.com/123chenna/Ecommerce_Backend
+
+
+🔗 Project Repositories
+
+🎨 Frontend: https://github.com/123chenna/Ecommerce_Frontend
+
+⚙️ Backend: https://github.com/123chenna/Ecommerce_Backend
 
 ### 2. Configure PostgresSQL
 
-spring.datasource.url=jdbc:mysql://localhost:3306/ecommerce_db
+spring.datasource.url=jdbc:postgressql://localhost:3306/ecommerce_db
 
 spring.datasource.username=root
 
