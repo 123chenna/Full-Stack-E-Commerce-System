@@ -6,9 +6,11 @@ A full-stack web application built using **Spring Boot** that allows users to br
 
  🌐 Live Demo
 
-🚀 Frontend: https://your-frontend.netlify.app
+🚀 Frontend:https://ecommerce-frontend-xliv.onrender.com
 
-⚙️ Backend API: https://your-backend.onrender.com
+⚙️ Backend API:https://ecommerce-backend-5rta.onrender.com
+
+
 
 
 
